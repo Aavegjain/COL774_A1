@@ -1,0 +1,14 @@
+1.e - 
+We observe that although in each case of a different learning parameter, we converge to essentially
+the same theta, the no of iterations it takes us to reach there differs considerably. Smaller the 
+learning parameter, more the no of iterations needed. 
+
+There is not much difference in the paths that the regression takes for each learning parameter. 
+
+
+2.c -
+We observe that depending on the batch size and the termination condition, we converge to slighly 
+different thetas (parameter values). 
+
+the percentage change in the parameter values for the batch sizes, wrt the original hypothesis 
+are 1,2,3,4. 
